@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://edmills.github.io/goodviber/sitemap.xml 

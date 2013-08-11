@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://edmills.github.io/goodviber/atom.xml" rel="self"/>
+  <link href="http://edmills.github.io/goodviber/"/>
+  <updated>2013-08-11T03:11:42+01:00</updated>
+  <id>http://edmills.github.io/goodviber/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[new post]]></title>
+    <link href="http://edmills.github.io/goodviber/blog/2013/08/11/new-post/"/>
+    <updated>2013-08-11T02:39:00+01:00</updated>
+    <id>http://edmills.github.io/goodviber/blog/2013/08/11/new-post</id>
+    <content type="html"><![CDATA[<p>shag and hassle</p>
+]]></content>
+  </entry>
+  
+</feed>
