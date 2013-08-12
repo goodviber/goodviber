@@ -4,4 +4,5 @@ title: "new post"
 date: 2013-08-11 02:39
 comments: true
 categories: 
----can i delete this?
+---
+can i delete this?
